@@ -44,7 +44,7 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Status"
+        android:text="Login status"
         android:id="@+id/txtStatus"
         android:layout_below="@+id/btnLogin"
         android:layout_centerHorizontal="true" />
